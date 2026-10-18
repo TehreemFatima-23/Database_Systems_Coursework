@@ -12,4 +12,5 @@
     <li>SQL Queries</li>
     <li>Lab 1: Querying Database using Relational Algebra</li>
     <li>Lab 2: Retrieving Data Using the SQL SELECT Statement</li>
+    <li>Lab 3: Restricting and Sorting Data </li>
 </ul>
