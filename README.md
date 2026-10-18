@@ -10,4 +10,6 @@
 <ul>
     <li><strong>DataBase Systems Lab Tasks</strong></li>
     <li>SQL Queries</li>
+    <li>Lab 1: Querying Database using Relational Algebra</li>
+    <li>Lab 2: Retrieving Data Using the SQL SELECT Statement</li>
 </ul>
