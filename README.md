@@ -3,6 +3,7 @@
 <h2>Tools Used</h2>
 <ul>
     <li><strong>Language:</strong> <code>SQL</code></li>
+    <li><strong>IDE:</strong> <code>SQL Server Management Studio (SSMS)</code></li>
 </ul>
 
 <h2>Topics Covered</h2>
