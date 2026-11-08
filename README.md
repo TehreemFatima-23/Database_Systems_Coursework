@@ -18,3 +18,9 @@
     <li>Lab 5: Reporting Aggregated Data Using the Group Functions</li>
     <li>Lab 6: Displaying Data from Multiple Tables Using "Joins"</li>
 </ul>
+
+<h2>Some Pracrice Problems</h2>
+
+<ul>
+    <li>DataBase, Tables creation and insertion, Foreign Key and SELECT</li>
+</ul>
