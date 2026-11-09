@@ -25,3 +25,20 @@ VALUES ('Sara', 101, 1),
 
 SELECT * FROM Departments;
 SELECT * FROM Employees;
+
+ALTER TABLE Departments
+ADD HOD VARCHAR(50);
+
+UPDATE Departments
+SET HOD = 'Dr.Atif'
+WHERE DeptID = 1;
+
+UPDATE Departments
+SET HOD = 'Mr.Ahmad'
+WHERE DeptID = 2;
+
+UPDATE Departments
+SET HOD = 'Mr.Saeed'
+WHERE DeptID = 3;
+
+SELECT * FROM Departments;

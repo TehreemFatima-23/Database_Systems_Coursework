@@ -23,4 +23,5 @@
 
 <ul>
     <li>DataBase, Tables creation and insertion, Foreign Key and SELECT</li>
+    <li>ALTER, UPDATE and WHERE queries</li>
 </ul>
